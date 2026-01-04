@@ -76,7 +76,7 @@ ________________________________________
 •	Automated dashboards (Power BI / Tableau)
 •	API integration
 ________________________________________
-👤 Author
+👤 Author:
 Fatemeh Fazel
 Python Developer | Data Analytics | Automation
 📧 Email: faty.fzl@email.com

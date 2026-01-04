@@ -77,10 +77,9 @@ ________________________________________
 •	API integration
 ________________________________________
 👤 Author
-Your Name
+Fatemeh Fazel
 Python Developer | Data Analytics | Automation
-📧 Email: your@email.com
-🔗 LinkedIn / GitHub
+📧 Email: faty.fzl@email.com
 ________________________________________
 ⭐ Notes
 This project reflects real-world data challenges such as:
